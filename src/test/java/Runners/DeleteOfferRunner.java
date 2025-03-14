@@ -32,7 +32,7 @@ public class DeleteOfferRunner extends AbstractTestNGCucumberTests {
     }
     
     @AfterClass
-    public static void teardDown()
+    public static void tearDown()
     {
         //driver.quit();
     }
