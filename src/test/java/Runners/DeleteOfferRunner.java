@@ -32,9 +32,9 @@ public class DeleteOfferRunner extends AbstractTestNGCucumberTests {
     }
     
     @AfterClass
-    public static void teadDown()
+    public static void teardDown()
     {
-        driver.quit();
+        //driver.quit();
     }
 
     public static void launchBrowser(String browserName) {

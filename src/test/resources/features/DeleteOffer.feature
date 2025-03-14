@@ -11,4 +11,4 @@ Feature: Login
     When user clicks on "Pumper Bundles Quantity Breaks" tool
     And user is on the "Pumper Dashboard"
     #Then user can "Clone" the "Bundle_Offer_S7D1" Offer
-    And user can "Delete" the "Bundle_Offer_S7D1 (clone-16)" Offer
+    And user can "Delete" the "Bundle_Offer_S7D1 (clone-21)" Offer
